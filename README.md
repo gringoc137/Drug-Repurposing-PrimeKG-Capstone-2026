@@ -118,4 +118,4 @@ The models are evaluated using link prediction performance on held-out edges. Th
 
 
 <img width="350" height="550" alt="image" src="https://github.com/user-attachments/assets/f61e86b1-8773-4ce9-80cd-e353ff5fa622" />
-<img width="921" height="1201" alt="SD-WF drawio-w" src="https://github.com/user-attachments/assets/105d1c75-8902-4920-ac7b-de5df4ca499c" />
+<img width="350" height="550" alt="SD-WF drawio-w" src="https://github.com/user-attachments/assets/105d1c75-8902-4920-ac7b-de5df4ca499c" />
