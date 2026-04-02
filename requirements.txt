@@ -1,0 +1,35 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+networkx==3.3
+scikit-learn==1.4.2
+ipython==8.24.0
+
+torch==2.3.1
+torch-geometric==2.5.3
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-cluster==1.6.3
+pyg-lib==0.4.0
+
+Building wheel for torch-geometric (pyproject.toml) 
+=======================================================
+  ENVIRONMENT SUMMARY
+=======================================================
+  Python          : 3.12.13
+  Platform        : Linux-6.6.113+-x86_64-with-glibc2.35
+
+  PyTorch         : 2.8.0+cu128
+  CUDA available  : True
+  CUDA version    : 12.8
+  GPU             : Tesla T4
+
+  PyG             : 2.8.0
+  torch-scatter   : 2.1.2+pt28cu128
+  torch-sparse    : 0.6.18+pt28cu128
+  torch-cluster   : 1.6.3+pt28cu128
+  pyg-lib         : 0.6.0+pt28cu128
+
+  Active device   : cuda
+======================================================= 
+. 
