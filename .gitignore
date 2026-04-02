@@ -1,0 +1,79 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ============================================
+# Jupyter / Colab
+# ============================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*Untitled*.ipynb
+
+# ============================================
+# Virtual environments
+# ============================================
+venv/
+env/
+.env
+.venv/
+
+# ============================================
+# Model weights & checkpoints
+# ============================================
+*.pt
+*.pth
+*.pkl
+*.h5
+*.onnx
+checkpoints/
+saved_models/
+
+# ============================================
+# Large data files (download separately)
+# ============================================
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.hdf5
+kg.csv
+kg_giant.csv
+drug_features.csv
+disease_features.csv
+primekg_data/
+
+# Keep the sample xlsx in data/
+!data/sampleprimekg.xlsx
+
+# ============================================
+# OS files
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# IDE / editor
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================
+# Logs & misc
+# ============================================
+*.log
+*.out
+wandb/
+runs/
+mlruns/
