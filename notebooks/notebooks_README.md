@@ -5,11 +5,11 @@ All code for this project was developed and executed in **Google Colab** with GP
 The primary runnable notebook is:
 
 **`notebooks/full-pipeline/DS_5500_Full-Pipeline_Comprehensive_Codebook.ipynb`** — This is the single end-to-end notebook that contains the full pipeline from data loading through model training, evaluation, re-ranking, and RAG-based explanation generation. **To reproduce results, run this notebook on Google Colab with a GPU runtime.**
+- (built / dev. in **Google Colab A100/L4/T4**).
 
 The notebooks in **`notebooks/modules/`** are **modular excerpts** of the comprehensive notebook, separated by stage for easier reading and review:
 
 ```
-
 notebooks/
 ├── full-pipeline/
 │   └── DS_5500_Full-Pipeline_Comprehensive_Codebook.ipynb
@@ -30,6 +30,7 @@ notebooks/
 The primary runnable notebook is:
 
 **`notebooks/full-pipeline/DS_5500_Full-Pipeline_Comprehensive_Codebook.ipynb`** — This is the single end-to-end notebook that contains the full pipeline from data loading through model training, evaluation, re-ranking, and RAG-based explanation generation. **To reproduce results, run this notebook on Google Colab with a GPU runtime.**
+- (built / dev. in **Google Colab A100/L4/T4**).
 
 These modular notebooks are **not independently runnable** — they are provided for code review and documentation purposes only.
 
@@ -47,3 +48,4 @@ The notebooks in **`notebooks/modules/`** are **modular excerpts** of the compre
 | `8.Re-rank+evidence_safety+similarity_block` | Evidence extraction, safety filtering, disease similarity, and re-ranking |
 | `9.run_demo()_pipeline` | End-to-end demo pipeline for a given disease query |
 | `A.Demo_Sample_output_blocks` | Sample output showing predicted drugs, evidence paths, and explanations |
+. 
