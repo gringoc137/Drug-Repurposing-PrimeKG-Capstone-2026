@@ -1,4 +1,4 @@
-## Repository Structure & Reproducing Results
+## Repository Structure & Reproducing Results 
 
 All code for this project was developed and executed in **Google Colab** with GPU runtime / acceleration, as the pipeline involves large-scale graph construction, GNN / HGT training, evidence extraction, and LLM-based explanation generation that depend on a continuous runtime with shared memory.
 
