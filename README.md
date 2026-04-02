@@ -1,4 +1,4 @@
-# Drug–Disease Link Prediction Using a Biomedical Knowledge Graph
+# Drug–Disease Repurposing Using Graph Neural Networks on a Biomedical Knowledge Graph (PrimeKG). 
 
 ## Project Description
 
