@@ -1,5 +1,7 @@
 # Drug–Disease Repurposing Using Graph Neural Networks on a Biomedical Knowledge Graph (PrimeKG). 
 
+#### Drug Repurposing & Disease Similarity on PrimeKG using GNNs and Explainable Graph-Based Evidence. 
+
 ## Project Description
 
 This project focuses on predicting potential **drug–disease relationships** using a **biomedical knowledge graph** and **Graph Neural Networks (GNNs)**. The main idea is to represent biomedical entities such as drugs, diseases, proteins, phenotypes, and effects as nodes in a graph, and represent their known relationships as edges. Once the graph is built, machine learning models can learn patterns in the graph structure and predict missing or potential therapeutic links.
@@ -165,7 +167,8 @@ The notebooks in **`notebooks/modules/`** are **modular excerpts** of the compre
 ---
 
 ### Dataset Link: https://github.com/mims-harvard/PrimeKG?tab=readme-ov-file 
+---
+## System Design / Overview 
 
 
-<img width="350" height="550" alt="image" src="https://github.com/user-attachments/assets/f61e86b1-8773-4ce9-80cd-e353ff5fa622" />
-<img width="350" height="550" alt="SD-WF drawio-w" src="https://github.com/user-attachments/assets/105d1c75-8902-4920-ac7b-de5df4ca499c" />
+<img width="1637" height="1445" alt="Final - SD drawio" src="https://github.com/user-attachments/assets/7232720a-a901-400c-8472-d3f71e4fac05" /> 
