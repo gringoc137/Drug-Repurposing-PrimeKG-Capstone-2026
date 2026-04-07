@@ -2,7 +2,7 @@
 
 #### Drug Repurposing & Disease Similarity on PrimeKG using GNNs and Explainable Graph-Based Evidence. 
 
-## Project Description
+## Project Description 
 
 This project focuses on predicting potential **drug–disease relationships** using a **biomedical knowledge graph** and **Graph Neural Networks (GNNs)**. The main idea is to represent biomedical entities such as drugs, diseases, proteins, phenotypes, and effects as nodes in a graph, and represent their known relationships as edges. Once the graph is built, machine learning models can learn patterns in the graph structure and predict missing or potential therapeutic links.
 
