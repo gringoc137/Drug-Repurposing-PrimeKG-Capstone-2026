@@ -172,3 +172,8 @@ The notebooks in **`notebooks/modules/`** are **modular excerpts** of the compre
 
 
 <img width="1637" height="1445" alt="Final - SD drawio" src="https://github.com/user-attachments/assets/7232720a-a901-400c-8472-d3f71e4fac05" /> 
+
+
+- ### Evidence-Aware Reranking Pipeline - flowchart
+
+<img width="1485" height="2395" alt="reranking_flowchart_white" src="https://github.com/user-attachments/assets/0568a61b-0803-4cd9-a6f3-7a1e27bf8047" />
