@@ -32,7 +32,17 @@ PrimeKG integrates 20 high-quality biomedical resources and contains:
 - **~4,000,000+ edges** across 10 biological scales
 - **Relationship types:** indication, contraindication, drug–protein (target/enzyme/carrier/transporter), disease–protein, disease–phenotype, protein–protein interactions, and more
 
-For full documentation, see: [Chandak, P., Huang, K. & Zitnik, M. (2023). *Building a knowledge graph to enable precision medicine.* Scientific Data, 10, 67.](https://doi.org/10.1038/s41597-023-01960-3)
+For full documentation, see: [Chandak, P., Huang, K. & Zitnik, M. (2023). *Building a knowledge graph to enable precision medicine.* Scientific Data, 10, 67.](https://doi.org/10.1038/s41597-023-01960-3) 
+
+## Schema / KG Structure 
+
+### 1. PrimeKG - Original - raw data - Schema
+
+<img width="773" height="865" alt="PrimeKG - Original - raw data - Schema" src="https://github.com/user-attachments/assets/f7159f23-4230-4fc4-9dc6-06dd866856d0" /> 
+
+### 2. PrimeKG - Final - modified - Schema 
+
+<img width="1389" height="990" alt="PrimeKG - Final - modified - Schema" src="https://github.com/user-attachments/assets/3574a920-b69e-4aaa-90f5-6f1ac7306268" />
 
 ## Important Notes
 
